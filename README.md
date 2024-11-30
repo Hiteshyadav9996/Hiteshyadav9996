@@ -10,8 +10,8 @@ Innovative Data Scientist with a robust 4+ year track record in transforming com
 - Streamline data processes through innovative automation strategies
 
 ## 🛠 Technical Expertise
-- **Programming Languages**: Python
-- **Statistical Modeling**: ARIMA, Structural Equation Modeling
+- **Programming Languages**: Python, R, SQL
+- **Statistical Modeling**: ARIMA, Structural Equation Modeling, Hierarichal Mixed Modellling
 - **Key Skills**: Machine Learning, Brand Analytics, Forecasting, Data Automation
 
 ## 🏆 Professional Highlights
@@ -27,7 +27,7 @@ Innovative Data Scientist with a robust 4+ year track record in transforming com
 - Brand Performance Optimization
 
 ## 🌐 Connect with Me
-[LinkedIn Profile](your-linkedin-url)
-[Personal Website](your-website-url)
+[LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/hitesh-yadav-826758149/))
+
 
 *Passionate about transforming data into actionable business intelligence*
